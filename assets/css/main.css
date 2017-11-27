@@ -558,3 +558,9 @@ hr {
     opacity: 1;
 }
 }
+.img-sm {
+	width: 300px;
+}
+.img-md {
+	width: 600px;
+}
